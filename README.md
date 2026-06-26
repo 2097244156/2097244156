@@ -31,6 +31,7 @@
 * 🧠 Algorithm training: **ICPC / CCPC style problem solving**
 * 🔧 Engineering practice, debugging and system building
 * 🚁 Robotics, control systems, path planning and multi-agent systems
+* 📌 Recording code, notes, projects and engineering growth on GitHub
 
 <br clear="right"/>
 
@@ -44,9 +45,13 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,md" />
 
+<br><br>
+
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+
+<br><br>
 
 ### Engineering Fields
 
@@ -62,9 +67,13 @@
 
 ## 🔥 Main Fields
 
+<div align="center">
+
 ```text
 Automation  ×  Robotics  ×  Algorithms  ×  Engineering
 ```
+
+</div>
 
 * 🤖 Robotics and autonomous systems
 * 🚁 Multi-UAV cooperative control
@@ -181,21 +190,11 @@ My GitHub
 
 ---
 
-## 🏆 GitHub Trophy
+## 🔥 Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=2097244156&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2097244156&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2097244156&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -214,6 +213,22 @@ My GitHub
 ![Engineering](https://img.shields.io/badge/Engineering-Practice-informational?style=flat-square)
 
 </div>
+
+---
+
+## 🧩 More About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
+* 🧠 Problem-solving oriented
+* 🔧 Engineering practice driven
+* 📚 Notes and code organizer
+* 💻 C++ beginner-to-advanced path
+* ⚙️ Automation and control system enthusiast
+* 🤖 Robotics and multi-agent system explorer
+* 🚀 Always building, debugging and improving
+
+<br clear="right"/>
 
 ---
 

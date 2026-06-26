@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm 赵舒豪 👋
+# Hi there 👋 I'm 赵舒豪
 
-### 🎓 Tongji University Student | ⚙️ Automation | 🤖 Robotics | 💻 C++ | 🚀 Algorithms
+### 🎓 Tongji University | ⚙️ Automation | 🤖 Robotics | 💻 C++ | 🚀 Algorithms
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=Engineering+Student+from+Tongji+University;C%2B%2B+%7C+Algorithms+%7C+Robotics+%7C+Automation;Keep+Coding%2C+Keep+Building%2C+Keep+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&center=true&vCenter=true&width=720&lines=Tongji+University+Student;Automation+%7C+Robotics+%7C+Algorithms;C%2B%2B+%7C+Engineering+%7C+Problem+Solving;Keep+Coding%2C+Keep+Building%2C+Keep+Improving" />
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=blueviolet\&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square\&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square\&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=2097244156\&style=flat-square\&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/2097244156?style=flat-square\&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/2097244156?style=flat-square\&color=yellow)
 
 </div>
 
@@ -22,15 +22,15 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 Undergraduate student at **Tongji University**
-* ⚙️ Focused on **Automation, Robotics and Intelligent Systems**
-* 💻 Main programming language: **C / C++**
-* 🚀 Interested in **Algorithms, ICPC / CCPC training and engineering practice**
-* 🤖 Exploring **ROS2, robot systems and multi-UAV cooperative control**
-* 📚 Building my own technical notes, code repositories and engineering projects
-* 🔧 Enjoy debugging, problem solving and turning ideas into runnable programs
+* ⚙️ Direction: **Automation & Intelligent Systems**
+* 🤖 Focus: **Robotics, ROS2 and Multi-UAV Cooperative Control**
+* 💻 Main language: **C / C++**
+* 🧠 Algorithm training: **ICPC / CCPC style problem solving**
+* 🔧 Engineering practice, debugging and system building
+* 🚁 Robotics, control systems, path planning and multi-agent systems
 
 <br clear="right"/>
 
@@ -48,30 +48,30 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
 
-### Fields
+### Engineering Fields
 
-![Algorithms](https://img.shields.io/badge/Algorithms-Training-red?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-Engineering-green?style=for-the-badge)
-![ROS2](https://img.shields.io/badge/ROS2-Robot_System-blueviolet?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-Control_System-blue?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-Robot_System-green?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-Robot_Framework-blueviolet?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Problem_Solving-red?style=for-the-badge)
 ![UAV](https://img.shields.io/badge/Multi--UAV-Cooperative_Control-orange?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔥 Main Interests
+## 🔥 Main Fields
 
 ```text
 Automation  ×  Robotics  ×  Algorithms  ×  Engineering
 ```
 
-* 🤖 Robot systems and autonomous agents
+* 🤖 Robotics and autonomous systems
 * 🚁 Multi-UAV cooperative control
 * 🧠 Algorithms and competitive programming
 * ⚙️ Control systems and engineering modeling
-* 🧩 C++ programming and problem solving
-* 🛰️ Path planning, formation control and task allocation
+* 🧩 C / C++ programming
+* 🛰️ Path planning and formation control
 * 🔬 Connecting theory with real engineering systems
 
 ---
@@ -173,9 +173,9 @@ My GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=2097244156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2097244156&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -185,7 +185,7 @@ My GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=2097244156&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
@@ -195,23 +195,13 @@ My GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2097244156&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🎯 Current Keywords
+## 🎯 Keywords
 
 <div align="center">
 
@@ -221,6 +211,7 @@ My GitHub
 ![Robotics](https://img.shields.io/badge/Robotics-System-blueviolet?style=flat-square)
 ![ROS2](https://img.shields.io/badge/ROS2-Robot_Framework-orange?style=flat-square)
 ![UAV](https://img.shields.io/badge/UAV-Cooperation-yellow?style=flat-square)
+![Engineering](https://img.shields.io/badge/Engineering-Practice-informational?style=flat-square)
 
 </div>
 
@@ -228,9 +219,13 @@ My GitHub
 
 ## 💡 Motto
 
+<div align="center">
+
 > Code records growth.
 > Engineering connects ideas with reality.
 > Stay curious, stay practical, keep building.
+
+</div>
 
 ---
 
@@ -238,8 +233,7 @@ My GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge\&logo=gmail)](mailto:your_email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2097244156-black?style=for-the-badge\&logo=github)](https://github.com/2097244156)
 
 </div>
 
